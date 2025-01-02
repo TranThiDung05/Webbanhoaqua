@@ -677,7 +677,7 @@ header {
 }
 
 .card-image {
-    height: 155px;
+    height: 280px;
     width: 100%;
     object-fit: cover;
     transition: transform 0.4s ease;
