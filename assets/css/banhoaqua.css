@@ -432,12 +432,13 @@ header {
 }
 
 .menu-link {
-    color: var(--black);
+    color: #2d2e2d;
     display: inline-block;
     padding: 15px 20px;
     text-transform: uppercase;
     position: relative;
     font-size: 15px;
+    font-weight: bold;
 }
 
 .menu-link:hover::after {
